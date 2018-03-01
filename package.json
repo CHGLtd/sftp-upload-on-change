@@ -2,7 +2,7 @@
   "name": "ftp-upload-on-change",
   "main": "./lib/ftp-upload-on-change",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "FTP upload files on change package for Atom",
   "keywords": [
   ],
   "activationCommands": {
