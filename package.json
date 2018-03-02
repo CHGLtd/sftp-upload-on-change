@@ -1,18 +1,13 @@
 {
-  "name": "ftp-upload-on-change",
-  "main": "./lib/ftp-upload-on-change",
-  "version": "0.0.0",
-  "description": "FTP upload files on change package for Atom",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "ftp-upload-on-change:toggle"
-  },
-  "repository": "https://github.com/atom/ftp-upload-on-change",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-  }
+	"name": "ftp-upload-on-change",
+	"main": "./lib/ftp-upload-on-change",
+	"version": "0.0.0",
+	"description": "FTP upload files on change package for Atom",
+	"repository": "https://github.com/atom/ftp-upload-on-change",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {
+	}
 }

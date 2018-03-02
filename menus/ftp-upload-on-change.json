@@ -1,26 +1,34 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle ftp-upload-on-change",
-        "command": "ftp-upload-on-change:toggle"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "ftp-upload-on-change",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "ftp-upload-on-change:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Toggle ftp-upload-on-change",
+				"command": "ftp-upload-on-change:toggle"
+			},
+			{
+				"label":"Create config file ftp-upload-on-change",
+				"command":"ftp-upload-on-change:create"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "ftp-upload-on-change",
+					"submenu": [
+						{
+							"label": "Toggle",
+							"command": "ftp-upload-on-change:toggle"
+						},
+						{
+							"label" : "Create Config File",
+							"command": "ftp-upload-on-change:create"
+						}
+					]
+				}
+			]
+		}
+	]
 }
