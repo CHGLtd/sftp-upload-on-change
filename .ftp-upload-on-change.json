@@ -1,15 +1,11 @@
 {
 	"local": {
-		"source"		: "/",
-		"ignore"		: [
-			".DS_Store"
-		]
+		"source"		: "/"
 	},
 	"remote": {
-		"transport"		: "scp",
-		"hostname"		: "ftp.domain.com",
+		"host"			: "ftp.domain.com",
 		"port"			: "22",
-		"username"		: "user",
+		"user"			: "user",
 		"password"		: "pw",
 		"target"		: "/remote/folder"
 	}
