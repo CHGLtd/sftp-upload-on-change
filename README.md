@@ -35,5 +35,5 @@ I have created this package because neither remote-sync nor remote-sync-pro work
 
 ## Dependencies
 
-Chokidar for watching files.
-SSH2 for the SFTP connection.
+ - Chokidar for watching files.
+ - SSH2 for the SFTP connection.
