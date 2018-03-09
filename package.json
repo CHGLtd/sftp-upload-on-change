@@ -1,7 +1,7 @@
 {
 	"name": "sftp-upload-on-change",
 	"main": "./lib/sftp-upload-on-change",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "FTP upload files on change package for Atom",
 	"repository": "https://github.com/andrecasal/sftp-upload-on-change",
 	"license": "MIT",
