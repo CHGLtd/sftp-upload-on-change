@@ -1,10 +1,10 @@
 # sftp-upload-on-change for Atom
 
-An Atom package that listens for changes (updates, deletes) in your project directory and updates the server correspondingly using SFTP.
+An Atom package that listens for changes (updates and deletes only for now) in your project directory and updates the server correspondingly using SFTP.
 
 ## Why?
 
-I have created this package because neither remote-sync nor remote-sync-pro works with SFTP - both fail after 9 successful uploads.
+I have created this package because neither remote-sync nor remote-sync-pro work with SFTP - both fail after 9 successful uploads.
 
 ## Installation
 
