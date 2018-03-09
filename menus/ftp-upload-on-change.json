@@ -4,10 +4,6 @@
 			{
 				"label": "Toggle ftp-upload-on-change",
 				"command": "ftp-upload-on-change:toggle"
-			},
-			{
-				"label":"Create config file ftp-upload-on-change",
-				"command":"ftp-upload-on-change:create"
 			}
 		]
 	},
@@ -21,10 +17,6 @@
 						{
 							"label": "Toggle",
 							"command": "ftp-upload-on-change:toggle"
-						},
-						{
-							"label" : "Create Config File",
-							"command": "ftp-upload-on-change:create"
 						}
 					]
 				}
