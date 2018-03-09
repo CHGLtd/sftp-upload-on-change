@@ -1,15 +1,15 @@
 {
-	"name": "sftp-upload-on-change",
-	"main": "./lib/sftp-upload-on-change",
-	"version": "0.0.0",
-	"description": "FTP upload files on change package for Atom",
-	"repository": "https://github.com/andrecasal/sftp-upload-on-change",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {
-		"chokidar": "^2.0.2",
-		"ssh2": "^0.5.5"
-	}
+  "name": "sftp-upload-on-change",
+  "main": "./lib/sftp-upload-on-change",
+  "version": "0.1.0",
+  "description": "FTP upload files on change package for Atom",
+  "repository": "https://github.com/andrecasal/sftp-upload-on-change",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "chokidar": "^2.0.2",
+    "ssh2": "^0.5.5"
+  }
 }
