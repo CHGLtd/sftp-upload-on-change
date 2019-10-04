@@ -1,3 +1,7 @@
+# 🚨I no longer maintain this package
+
+I no longer use Atom, so if anyone wants to take over this repository, let me know and I'll transfer ownership to you.
+
 # sftp-upload-on-change for Atom
 
 An Atom package that listens for changes (updates and deletes only for now) in your project directory and updates the server correspondingly using SFTP.
